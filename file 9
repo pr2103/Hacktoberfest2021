@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	float x,y;
+	printf("enter the absisa and the ordinate of the point");
+	scanf("%f%f",&x,&y);
+	 
+
+}
